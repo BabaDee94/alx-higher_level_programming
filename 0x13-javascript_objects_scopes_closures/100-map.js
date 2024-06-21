@@ -8,4 +8,4 @@ let cont = 0;
 const map1 = array.map(function (x) {
   return (x * cont++);
 });
-console.log(map1);;
+console.log(map1);
